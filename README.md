@@ -2,8 +2,12 @@
 ```markdown
 Hey! 
 Welcome to my personal website!
-i'm Muhammad Ehab himself. I'm sure you know little about me but it's a good chance to know me better.
-I'm a biomedical engineering student at Faculty of Engineering - Cairo University who has a great passion to the embedded systems development, and have passed a challenging difficulties in this field because besides my studying, i'm an embedded systems developer in the Cairo Uni. Racing Team (Formula Student), which is a worldwide competition.
+i'm Muhammad Ehab himself. I'm sure you know little about me but it's a good chance to know me better.  
+I'm a biomedical engineering student at Faculty of Engineering - Cairo University   
+who has a great passion to the embedded systems development,  
+and have passed a challenging difficulties in this field because besides my studying,   
+i'm an embedded systems developer in the Cairo Uni. Racing Team (Formula Student),  
+which is a worldwide competition.  
 ```
 --------------------------------------------
 
